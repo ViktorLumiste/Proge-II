@@ -1,7 +1,7 @@
 const firstname= "Viktor"
 const surename = "lumiste"
 const email = "viktor.lumiste@voco.ee"
-const department = "ITA"
+const department = "IKT"
 
 let result = "<ul>" +
     "<li><b>Name:</b>"+ firstname+"</li>" +
