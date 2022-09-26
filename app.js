@@ -14,4 +14,5 @@ val = document.characterSet
 val = document.contentType
 
 val = document.forms
+val = document.forms[0]
 console.log(val)
