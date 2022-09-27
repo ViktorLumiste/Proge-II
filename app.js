@@ -27,4 +27,5 @@ val = listItem.nextSibling
 val = listItem.nextElementSibling
 val = listItem.nextElementSibling
 
+
 console.log(val)
