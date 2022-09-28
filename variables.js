@@ -38,7 +38,7 @@ val = Number("five")
 //Array -> Number
 val = Number([1,2,3,4])
 
-//tostring()
+//toString()
 val = (true).toString()
 
 //String -> Integer
